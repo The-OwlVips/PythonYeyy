@@ -7,3 +7,10 @@ reinos2 = [["Wonderland","Red Hearts"], ["Cinderellasburg","Chloe Charming"], ["
 
 for i in range(len(reinos2)): #DESCOBRI HAHAHAHAHAHHHAHAHHAA
    print(f"Reino: {reinos2[i][0]} \nRepresentante: {reinos2[i][1]} \n")
+
+print(10*'-')
+
+size = 11
+text ="*"
+for i in range(size):
+    print(i*'°')
